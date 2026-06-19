@@ -111,11 +111,16 @@ nav a {
   margin-top: 26px;
 }
 
-.profile-links a,
-.profile-links .email {
+.profile-links a {
   width: fit-content;
   color: var(--link-dark);
   font-weight: 600;
+}
+
+.profile-links .email {
+  width: fit-content;
+  color: var(--text);
+  font-weight: 400;
 }
 
 .content {
