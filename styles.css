@@ -191,20 +191,14 @@ nav a {
 }
 
 .stats-link {
-  margin: 10px 0 0;
-}
-
-.stats-link a {
   display: inline-flex;
   align-items: center;
-  gap: 7px;
-  color: var(--link-dark);
-  font-weight: 600;
+  vertical-align: text-bottom;
 }
 
 .stats-link img {
-  width: 18px;
-  height: 18px;
+  width: 0.9rem;
+  height: 0.9rem;
   border-radius: 4px;
 }
 
